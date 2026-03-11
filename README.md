@@ -7,6 +7,8 @@ Disclaimer:
 This repository contains code from Gemini Nexus courses. This repository is used for personal learning and archival purposes. All original code belongs to Google and please refer to original sources for license confirmation.
 
 Lesson 1 :
+
+
 https://codelabs.developers.google.com/devsite/codelabs/building-ai-agents-vertexai#1
 
 
