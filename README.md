@@ -54,4 +54,13 @@ Lesson 7 :
 https://bit.ly/agentic-rag-local
 
 
+Lesson 8 :
+
+
+https://bit.ly/3N24pEl
+
+
+https://bit.ly/4bEVSjW
+
+
 
