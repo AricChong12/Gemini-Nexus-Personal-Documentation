@@ -60,13 +60,16 @@ Lesson 8 :
 https://bit.ly/3N24pEl
 
 
+https://bit.ly/4bEVSjW
+
+
 Lesson 9 :
 
 
 https://github.com/aldychris/serverpod-movie-reco-ai
 
 
-https://bit.ly/4bEVSjW
+
 
 
 
